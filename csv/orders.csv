@@ -1,0 +1,6 @@
+order_id,customer,amount,city,order_timestamp
+1,Ali Khan,450.50,Karachi,2026-07-05 08:58:55.861694
+2,Sara Ahmed,890.00,Lahore,2026-07-05 08:58:55.861694
+3,Bilal Raza,320.75,Islamabad,2026-07-05 08:58:55.861694
+4,Ali Khan,210.00,Karachi,2026-07-05 08:58:55.861694
+5,Sara Ahmed,675.25,Lahore,2026-07-05 08:58:55.861694

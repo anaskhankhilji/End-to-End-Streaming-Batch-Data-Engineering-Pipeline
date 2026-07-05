@@ -1,0 +1,1 @@
+{"_invocation_id": "0cc83360-ee62-4e7c-a7b9-7d503f9ef93b", "linked": {"0": {"name": "source.customer_analytics.raw_data.customers", "type": "source"}, "1": {"name": "source.customer_analytics.raw_data.orders", "type": "source", "succ": [2]}, "2": {"name": "model.customer_analytics.customer_summary", "type": "model"}}}
