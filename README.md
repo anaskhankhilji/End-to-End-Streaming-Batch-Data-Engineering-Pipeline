@@ -1,5 +1,3 @@
-# 🚀 Nexus Data Platform
-
 ## 🏗️ Architecture
 
 <img width="1774" height="887" alt="ChatGPT Image Jul 4, 2026, 10_28_11 PM" src="https://github.com/user-attachments/assets/4736ecd3-b741-4a4d-8278-47da99067703" />
